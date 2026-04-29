@@ -2,8 +2,8 @@
 
 ## 👤 Datos Personales
 - **Nombre:** Aguilar Garcia Kevin
-- **Carrera:** Arquitectura de Plataformas Digitales y Servicios de Tecnologías de la Información
-- **Especialidad:** Desarrollo de Software y Diseño Web
+- **Carrera:** Arquitectura de Plataformas y Servicios de Tecnologías de la Información
+- **Especialidad:** Diseño de páginas web
 
 ## 🚀 Sobre mí
 Soy un estudiante apasionado por la tecnología y la creación de soluciones digitales eficientes. Mi formación se centra en la arquitectura de sistemas, la gestión de bases de datos y la creación de interfaces de usuario modernas y funcionales. Me caracterizo por ser autodidacta, detallista y enfocado en la resolución de problemas técnicos complejos.
